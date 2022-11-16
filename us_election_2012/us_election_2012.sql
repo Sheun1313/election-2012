@@ -1,5 +1,3 @@
-create database Maven
-
 select * from US_election_2012
 
 -- 1.	How many states had a Voter Population % below 55%? Which states?
