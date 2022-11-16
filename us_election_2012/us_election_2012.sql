@@ -10,8 +10,7 @@ order by voters_population desc
 
 
   /*2.	How many confirmed voters in CA were over 65 years old in 2012? 
-		What percentage does that represent out of the total confirmed voters in CA? 
-		What percentage out of the confirmed voters in the entire country?*/
+	
 
 select state, sum(confirmed_voters)California_Confirmed_voters 
 from US_election_2012
